@@ -1,0 +1,16 @@
+id: e47f5db8-5f11-40f7-8150-bd76cc5d80b6
+name: writeflow
+description: "AI author tool — workflow-based writing assistant for any content"
+tier: prototype
+lane: side-projects
+priority: medium
+category: text
+focus: true
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: null
+deploy_url: null
+last_active: 2026-03-02
+tags: []
+notes:
