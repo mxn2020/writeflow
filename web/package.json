@@ -1,8 +1,22 @@
 {
-  "name": "writeflow-web",
+  "name": "writeriq-web",
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "description": "AI-powered writing assistant with workflow-based content creation and AI suggestions",
+  "author": "Mehdi Nabhani <mehdi@geenius.app>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxn2020/writeriq.git"
+  },
+  "keywords": [
+    "writeriq",
+    "writing",
+    "ai",
+    "content",
+    "convex"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -12,6 +26,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@geenius-ui/react-css": "^0.1.4",
+    "@geenius-ai/react": "^0.0.1",
+    "@geenius-auth/react": "^0.0.1",
+    "@geenius-tools/errors-react": "^0.0.1",
     "@auth/core": "0.37.0",
     "@convex-dev/auth": "^0.0.90",
     "@vercel/analytics": "^1.6.1",

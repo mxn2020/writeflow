@@ -1,5 +1,5 @@
-id: e47f5db8-5f11-40f7-8150-bd76cc5d80b6
-name: writeflow
+id: 99869af4-9ba6-42f3-828c-bad0dfbfa0da
+name: writeriq
 description: "AI author tool — workflow-based writing assistant for any content"
 tier: prototype
 lane: side-projects
@@ -9,8 +9,8 @@ focus: true
 open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: null
+repo: https://github.com/mxn2020/writeriq
 deploy_url: null
-last_active: 2026-03-02
-tags: []
+last_active: 2026-03-08
+tags: [writing, ai, workflow, content]
 notes:

@@ -10,7 +10,7 @@ export default function LandingPage() {
                 <div className="landing-hero__content">
                     <h1 className="landing-hero__title">
                         <PenTool size={40} style={{ color: 'var(--color-accent)' }} />
-                        <span>WriteFlow</span>
+                        <span>WriterIQ</span>
                     </h1>
                     <p className="landing-hero__tagline">
                         The AI-powered writing assistant that crafts publication-ready content — from blog posts and emails to books and scripts.

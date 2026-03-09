@@ -51,7 +51,7 @@ export const generate = action({
         const toneInstruction = TONE_INSTRUCTIONS[args.tone] || TONE_INSTRUCTIONS.professional;
         const styleInstruction = args.style ? (STYLE_INSTRUCTIONS[args.style] || "") : "";
 
-        const systemPrompt = `You are WriteFlow, an expert AI writing assistant. You help users craft exceptional content across any format.
+        const systemPrompt = `You are WriterIQ, an expert AI writing assistant. You help users craft exceptional content across any format.
 
 Your core principles:
 - Produce publication-ready content that requires minimal editing

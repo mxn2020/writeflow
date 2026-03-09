@@ -18,7 +18,7 @@ export default function AppHome() {
                 borderRadius: 16, padding: "2.5rem 1.5rem", border: "1px solid rgba(59,130,246,0.2)"
             }}>
                 <PenTool size={48} style={{ color: "var(--color-accent)", marginBottom: 12 }} />
-                <h1 style={{ fontSize: "2rem", fontWeight: 700, marginBottom: 8 }}>WriteFlow</h1>
+                <h1 style={{ fontSize: "2rem", fontWeight: 700, marginBottom: 8 }}>WriterIQ</h1>
                 <p style={{ color: "var(--color-text-secondary)", fontSize: "1.1rem" }}>
                     AI-powered writing assistant — blogs, emails, sales copy, books, and more
                 </p>
