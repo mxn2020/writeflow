@@ -1,16 +1,18 @@
-id: 99869af4-9ba6-42f3-828c-bad0dfbfa0da
 name: writeriq
-description: "AI author tool — workflow-based writing assistant for any content"
+project_scope: main
+project_type: standalone
+description: AI author tool — workflow-based writing assistant for any content
 tier: prototype
 lane: side-projects
 priority: medium
-category: text
-focus: true
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/writeriq
+repo: "https://github.com/mxn2020/writeriq"
 deploy_url: null
 last_active: 2026-03-08
-tags: [writing, ai, workflow, content]
-notes:
+tags: [ai, convex, writing, copywriting, content, creative, assistant]
+notes: null
+category: webapp
+focus: true
+open_tasks: 0
+id: 99869af4-9ba6-42f3-828c-bad0dfbfa0da
