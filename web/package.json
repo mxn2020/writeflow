@@ -5,7 +5,7 @@
   "type": "module",
   "description": "AI-powered writing assistant with workflow-based content creation and AI suggestions",
   "author": "Mehdi Nabhani <mehdi@geenius.app>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/writeriq.git"
